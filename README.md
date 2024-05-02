@@ -22,6 +22,8 @@ Server code:
 
 
 Runs and output:
+
+
 ![image](https://github.com/omara2001/File-Transfer-using-TCP-Socket/assets/66154169/a6f9a53a-ac56-44c6-8fb0-d025e036d3b8)
 
 
